@@ -1,4 +1,4 @@
-#Object Recognition using TensorFlow and Java
+# Object Recognition using TensorFlow and Java
 
 This small demo was written in Java to recognize objects in images and classify it using Inception models.
 
