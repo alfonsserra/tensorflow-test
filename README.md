@@ -34,7 +34,7 @@ mvn install
 
 ## Run:
 
-Run TensorflowTest form your IDE.
+Specify the model and the images to test in the source code and then run TensorflowTest from your IDE.
 
 
 [git]: https://git-scm.com/
